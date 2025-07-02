@@ -68,7 +68,7 @@ Setiap baris kode yang saya pelajari hari ini, saya dedikasikan untuk dunia digi
         <div className="w-full lg:w-1/2 flex justify-center">
           <img
             ref={imgRef}
-            src="public\images\iren.jpg"
+            src="/assets/backgrounds/iren.jpg"
             alt="Iren"
             className="max-w-md w-full aspect-[4/3] object-cover rounded-xl shadow-lg"
           />
