@@ -86,8 +86,8 @@ export const projects = [
     description:
       "Meraih peringkat 3 (medali perunggu) dalam Kompetisi Siswa Braindicator tingkat nasional, 8 Oktober 2023, di Jawa Tengah.",
     href: "",
-    image: "/public/assets/backgrounds/serti5.jpg",
-    bgImage: "/public/assets/backgrounds/serti5.jpg",
+    image: "/assets/backgrounds/serti5.jpg",
+    bgImage: "/assets/backgrounds/serti5.jpg",
     frameworks: [
       { id: 1, name: "" },
       { id: 2, name: "" },
@@ -102,8 +102,8 @@ export const projects = [
     description:
       "Berpartisipasi aktif di ajang KSB 2023 cabang Informatika mewakili SMKN 7 Biru-Biru.",
     href: "",
-    image: "/public/assets/backgrounds/serti6.jpg",
-    bgImage: "/public/assets/backgrounds/serti6.jpg",
+    image: "/assets/backgrounds/serti6.jpg",
+    bgImage: "/assets/backgrounds/serti6.jpg",
     frameworks: [
       { id: 1, name: "" },
       { id: 2, name: "" },
@@ -117,8 +117,8 @@ export const projects = [
     description:
       "Mengikuti Pekan Olimpiade Siswa Seluruh Indonesia pada bidang Informatika di Purwokerto, 26 November 2023, mewakili SMKN 7 Biru-Biru.",
     href: "",
-    image: "/public/assets/backgrounds/serti1.jpg",
-    bgImage: "/public/assets/backgrounds/serti1.jpg",
+    image: "/assets/backgrounds/serti1.jpg",
+    bgImage: "/assets/backgrounds/serti1.jpg",
     frameworks: [
       { id: 1, name: "" },
       { id: 2, name: "" },
@@ -132,8 +132,8 @@ export const projects = [
     description:
       "Berpartisipasi dalam Olimpiade Siswa Indonesia Sumpah Pemuda bidang Pendidikan Kewarganegaraan, 22 Oktober 2023, di Purwokerto.",
     href: "",
-    image: "/public/assets/backgrounds/serti2.jpg",
-    bgImage: "/public/assets/backgrounds/serti2.jpg",
+    image: "/assets/backgrounds/serti2.jpg",
+    bgImage: "/assets/backgrounds/serti2.jpg",
     frameworks: [
       { id: 1, name: "" },
       { id: 2, name: "" },
@@ -147,8 +147,8 @@ export const projects = [
     description:
       "Ikut serta dalam POSSI cabang Bahasa Indonesia di Purwokerto, mewakili SMKN 7 Biru-Biru.",
     href: "",
-    image: "/public/assets/backgrounds/serti3.jpg",
-    bgImage: "/public/assets/backgrounds/serti3.jpg",
+    image: "/assets/backgrounds/serti3.jpg",
+    bgImage: "/assets/backgrounds/serti3.jpg",
     frameworks: [
       { id: 1, name: "" },
       { id: 2, name: "" },
